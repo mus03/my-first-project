@@ -1,0 +1,29 @@
+.first {
+  background-color: red;
+  margin-bottom: 200px;
+  padding: 100px;
+}
+.second {
+  background-color: green;
+  margin-bottom: 100px;
+  padding: 10px;
+}
+.third {
+  background-color: red;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.fourth {
+  background-color: greenyellow;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.fifth {
+  background-color: indianred;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+h3 {
+  color: blue;
+  text-align: center;
+}
